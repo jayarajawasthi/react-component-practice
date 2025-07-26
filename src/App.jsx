@@ -1,12 +1,13 @@
 
 import './App.css'
+import Example from './components/HeroSections/SimpleCentered/SimpleCentered'
 
 function App() {
 
 
   return (
     <>
-    <h1>Hello world</h1>
+      <Example />
     </>
   )
 }
